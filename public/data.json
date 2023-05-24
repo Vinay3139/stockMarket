@@ -1,0 +1,73 @@
+[
+    {   "id":1, 
+        "scrip": "AADR",
+        "quantity": "430",
+        "price": "50.30",
+        "avg_cost": "$41.75",
+        "invested_amount": "$17,952.07",
+        "portfolio_percentage": "22.06",
+        "unrealized_PL": "$3,676.93",
+        "return_percentage": "20.48",
+        "type": "MF"
+    },
+    {   
+        "id":2, 
+        "scrip": "MFEM",
+        "quantity": "210",
+        "price": "23.20",
+        "avg_cost": "$22.50",
+        "invested_amount": "$14,725.84",
+        "portfolio_percentage": "5.81",
+        "unrealized_PL": "$146.16",
+        "return_percentage": "3.09",
+        "type": "MF"
+    },
+    {
+        "id":3, 
+        "scrip": "JPEM",
+        "quantity": "328",
+        "price": "52.50",
+        "avg_cost": "$56.70",
+        "invested_amount": "$18,597.60",
+        "portfolio_percentage": "22.86",
+        "unrealized_PL": "-$1377.60",
+        "return_percentage": "-7.41",
+        "type": "MF"
+    },
+    {
+        "id":4, 
+        "scrip": "KEMQ",
+        "quantity": "801",
+        "price": "20.40",
+        "avg_cost": "$22.24",
+        "invested_amount": "$17811.04",
+        "portfolio_percentage": "21.89",
+        "unrealized_PL": "-$1,470.64",
+        "return_percentage": "-8.26",
+        "type": "MF"
+    },
+    {
+        "id":5, 
+        "scrip": "KLDW",
+        "quantity": "523",
+        "price": "32.90",
+        "avg_cost": "$26.32",
+        "invested_amount": "$13,765.36",
+        "portfolio_percentage": "16.92",
+        "unrealized_PL": "$3,441.34",
+        "return_percentage": "25.00",
+        "type": "ETF"
+    },
+    {
+        "id":6, 
+        "scrip": "KOIN",
+        "quantity": "335",
+        "price": "25.40",
+        "avg_cost": "$25.40",
+        "invested_amount": "$8,509.00",
+        "portfolio_percentage": "10.46",
+        "unrealized_PL": "$ -",
+        "return_percentage": "0.00",
+        "type": "ETF"
+    }
+]

@@ -1,0 +1,205 @@
+.CardContent {
+    width: 246px;
+    height: 85px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+
+}
+
+.CardContents {
+    width: 87px;
+    height: 85px;
+    margin: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.CardContents button {
+    color: red;
+    border-radius: 5px;
+    width: 72px;
+    height: 29px;
+    border: 1px solid red;
+    margin: 4px;
+}
+
+.main_Container {
+    display: flex;
+    /* margin: 20px; */
+    margin-left: 44px;
+}
+
+.market_Value {
+    display: flex;
+    justify-content: space-around;
+}
+
+.market_Value p {
+    margin: 10px 0px;
+}
+
+#Slider {
+    width: 83%;
+    height: 8px;
+    color: green;
+}
+
+
+.Box {
+    margin: -2px;
+    margin-left: 15px
+}
+
+.iShares {
+    display: flex;
+    margin: 9px;
+}
+
+.Box p {
+    margin: 5px 0px;
+    color: rgb(0, 102, 255);
+}
+
+.shares {
+    margin-top: -18px;
+}
+
+.shares p {
+    color: rgba(235, 223, 60, 0.338);
+    font-size: 25px;
+}
+
+.shares span {
+    margin-left: 39px;
+
+}
+
+#Slider_Two {
+    width: 83%;
+    height: 6px;
+    color: green;
+}
+
+.market_Values {
+    display: flex;
+    justify-content: space-around;
+}
+
+.market_Values p {
+    margin: 07px 0px;
+}
+
+.Index{
+    margin-top: -26px;
+    margin-left: 67px;
+}
+
+.Equality{
+    margin-left: -20px;
+    margin-top: -12px;
+}
+
+.SliderDiv{
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    height: 20px;
+    border:1px solid white;
+}
+
+.Scroll{
+    overflow-x: scroll;
+}
+
+.Scroll::-webkit-scrollbar{
+    display: none;
+}
+
+.Red{
+    position: absolute;
+    width: 20px;
+    margin-right: 23px;
+    
+}
+
+
+.Green11{
+    /* position: absolute;
+    width: 30px;
+    right: 94px;
+    align-items: center; */
+    position: absolute; 
+  left: 0; 
+  right: 0; 
+  margin-left: auto; 
+  margin-right: auto; 
+  /* width: 100px; Need a specific value to work */
+  height: 13px;
+}
+
+.Money{
+    margin-left: -31px;
+    margin-top: 3px;
+    font-size: 25px;
+}
+
+.Cost{
+    margin-left: -55px;
+    margin-top: 7px;
+}
+
+.Quantity{
+    margin-left:-63px;
+    font-size: 19px;
+    margin-top: 8px;
+}
+
+.up_Arrow{
+    position: absolute;
+    bottom: 32px;
+    margin-left: 9px;
+    color: green;
+}
+
+.div1{
+    display: flex;
+    width: 100%;
+    height: 13px;
+    justify-content: center;
+    align-items: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    position: relative;
+}
+
+.down_Arrow{
+    position: absolute;
+    bottom: 32px;
+    margin-left: 35px;
+    color: red;
+}
+
+.Main{
+    border: 1px solid black;
+    height: 11px;
+    display: flex;
+    position: absolute;
+}
+
+.parentDiv{
+    display: flex;
+    justify-content: center;
+    width: 86%;
+    height: 13px;
+    background-color: #d1d1d1;
+    margin-left: 11px;
+    margin-top: 7px;
+}
+
+.negativeValue{
+    border-right: 2px solid black;
+    
+    
+}
+
+.css-14gf62f-MuiSlider-thumb{
+display: none;
+}
+
+
